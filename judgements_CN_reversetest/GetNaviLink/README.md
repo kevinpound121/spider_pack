@@ -1,0 +1,1 @@
+The encrypt js still need to be modified or rewrite in python way
